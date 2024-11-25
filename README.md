@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vishal Raut
-- 👀 I’m interested in Programming and Web development
-- 🌱 I’m currently learning Second Year 
+👋 Hi, I’m Vishal Raut
+👀 I’m interested in programming and web development
+🌱 I’m currently in my second year of engineering
 
 
 <!---
