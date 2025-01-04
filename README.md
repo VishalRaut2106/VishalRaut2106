@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,<br> I’m Vishal Raut <br>💻 4th-semester student passionate about coding and web development.<br>🌱 I’m currently in my 4th semester of engineering.
+👋Hi there,<br> I’m Vishal Raut <br>💻 4th-semester student passionate about coding and web development.<br>🌱 I’m currently in my 4th semester of engineering.
 
 
 ## 🌐 Socials:
