@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About :
 👋Hi there,<br> I’m Vishal Raut <br>💻 student passionate about coding and web development.<br>🌱 I’m currently in my 4th semester of engineering.
 
 
