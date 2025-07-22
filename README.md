@@ -1,4 +1,4 @@
-<img src="./Aesthetic Twitter Header.png" alt="Developer GIF" width="1000"/>
+<img src="./Banner.png" alt="Developer GIF" width="1000"/>
 
 # Hello there,
 <div>
