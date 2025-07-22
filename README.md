@@ -80,3 +80,9 @@ Always curious and eager to grow in the world of tech.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Vishalraut2106&icon=9&color=9)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
+</picture>
