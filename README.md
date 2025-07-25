@@ -1,4 +1,7 @@
-<img href='https://vishalraut2106.vercel.app/' src="./Banner.png" alt="Developer GIF" width="1000"/>
+<a href="https://vishalraut2106.vercel.app/" target="_blank">
+  <img src="./Banner.png" alt="Developer GIF" width="1000"/>
+</a>
+
 
 # Hello there,
 <div>
