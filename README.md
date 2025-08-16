@@ -1,4 +1,4 @@
-<a href="https://vishalraut2106.vercel.app/" target="_blank">
+<a href="" target="_blank">
   <img src="./Banner.png" alt="Developer GIF" width="1000"/>
 </a>
 
