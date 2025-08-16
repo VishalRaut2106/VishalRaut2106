@@ -15,11 +15,12 @@
 
 <h1>💫 About Me:</h1>
 
-👋 Hi there, I'm Vishal Raut  
-💻 A student passionate about coding and web development  
-📚 Currently in 5th Semester of Engineering (AI & DS)  
-🚀 Learning Java for DSA and React for Web Development  
-🎯 Focused on building real-world impactful projects  
+👋 Hi, I’m Vishal Raut
+💻 Passionate about coding & web development
+📚 Currently pursuing Engineering (AI & DS), 5th Semester
+🚀 Learning Java for DSA & React for Web Development
+🎯 Focused on building real-world impactful projects
+🌟 Open Source Contributor @ GSSOC’25
 
 Always curious and eager to grow in the world of tech.
 
