@@ -90,3 +90,13 @@ Always curious and eager to grow in the world of tech.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalraut2106/vishalraut2106/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/vishalraut2106/vishalraut2106/output/github-snake.svg" />
 </picture>
+
+
+<div align="left">
+  <h2><b>👀 Visitor Count</b></h2>
+</div>
+
+<a href="https://github.com/vishalraut2106">
+  <img src="https://count.getloli.com/@vishalraut2106?name=vishalraut2106&theme=green&darkmode=1" />
+</a>
+
