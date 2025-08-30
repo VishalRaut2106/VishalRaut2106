@@ -35,7 +35,6 @@ Always curious and eager to grow in the world of tech.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalraut.05) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rautvishal1)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalraut2106&label=Profile%20views&color=0e75b6&style=flat" alt="vishalraut2106" /> </p>
 
 ## 💻 Tech Stack:
 
