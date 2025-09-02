@@ -13,7 +13,7 @@
   <tr>
     <td>
 
-<h1>💫 About Me:</h1>
+<h1>💫 About Me </h1>
 
 👋 Hi, I’m Vishal Raut
 💻 Passionate about coding & web development
