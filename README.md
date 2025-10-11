@@ -20,7 +20,7 @@
 📚 Currently pursuing Engineering (AI & DS), 5th Semester
 🚀 Learning Java for DSA & React for Web Development
 🎯 Focused on building real-world impactful projects
-🌟 Open Source Contributor @ GSSOC’25
+🌟 Open Source Contributor @GSSOC’25
 
 Always curious and eager to grow in the world of tech.
 
