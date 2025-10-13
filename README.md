@@ -1,134 +1,166 @@
+<!-- Profile Header with Animated Gradient Wave (replaces typewriter) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=0EB4F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vishal+Raut;Full+Stack+Developer;AI+%26+DS+Student;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=0&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=0&lines=" alt="" width="0" height="0"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Vishal%20Raut&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Vishal%20Raut&fontSize=48&fontColor=1b1f23&animation=fadeIn" alt="Vishal Raut" />
+    </picture>
+    <div>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00B4F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+%26+DS+Student+%7C+Open+Source+Contributor;Building+cool+things+on+the+web+and+learning+every+day" alt="Intro Lines" />
+    </div>
+  </h1>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishalRaut2106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/VishalRaut2106?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=VishalRaut2106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 💫 About Me
-
 ```javascript
 const vishal = {
-    pronouns: "He" | "Him",
-    location: "India",
-    education: "B.Tech in AI & Data Science | 5th Semester",
-    currentFocus: ["Full Stack Development", "DSA in Java", "React.js"],
-    askMeAbout: ["Web Dev", "Tech", "AI/ML", "Open Source"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+  pronouns: "He" | "Him",
+  location: "India",
+  education: "B.Tech in AI & Data Science | 5th Semester",
+  currentFocus: ["Full Stack Development", "DSA in Java", "React.js"],
+  askMeAbout: ["Web Dev", "Tech", "AI/ML", "Open Source"],
+  funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
-
-🔭 **Currently Working On:** Building impactful real-world projects  
-🌱 **Currently Learning:** Advanced React, Data Structures & Algorithms  
-💬 **Ask Me About:** Web Development, Java, React, Problem Solving  
-⚡ **Fun Fact:** I turn coffee into code ☕➡️💻  
-🌟 **Open Source:** Contributing to GSSOC'25
+- 🔭 Currently Working On: Building impactful real-world projects
+- 🌱 Currently Learning: Advanced React, Data Structures & Algorithms
+- 💬 Ask Me About: Web Development, Java, React, Problem Solving
+- ⚡ Fun Fact: I turn coffee into code ☕➡️💻
+- 🌟 Open Source: Contributing to GSSOC'25
 
 ---
 
-## 🏆 Achievements
-
+## 🛠️ Tech & Tools
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalRaut2106&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,python,git,github,postgres,mongodb,mysql,redis,vercel,docker,linux,vscode&perline=10" alt="Skills"/>
 </p>
-
-- 🥇 **Open Source Contributor** - GirlScript Summer of Code 2025
-- 💻 **Engineering Student** - AI & Data Science (5th Semester)
-- 🚀 **Problem Solver** - Actively solving DSA problems in Java
-- 🌐 **Web Developer** - Building responsive and dynamic web applications
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+## 🧩 Developer Cards & Widgets
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishalRaut2106&theme=discord&no-frame=true&row=1&margin-w=8" alt="Trophies"/>
 </p>
-
-### **Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
-
-### **Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalRaut2106&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <!-- Streak: primary provider -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+<p align="center">
+  <!-- Streak fallback (if above doesn't load) -->
+  <img src="https://streak-stats.demolab.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak (Fallback)" width="48%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
-</div>
+## 🔤 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%"/>
+</p>
+
+<!-- 1) Place Contribution Graph BELOW Languages -->
+## 🟩 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://vishalraut2106.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/vishalraut2106" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/vishalraut2106" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:vishalraut2106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 📌 Pinned Projects
-
-<div align="center">
-  <a href="https://github.com/VishalRaut2106/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalRaut2106&repo=VishalRaut2106&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-</div>
-
----
-
 ## 💭 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+---
+
+## ⭐ Pinned Projects
+<p align="center">
+  <a href="https://github.com/VishalRaut2106/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalRaut2106&repo=VishalRaut2106&theme=tokyonight&hide_border=true" alt="Project 1"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 👀 Visitors Counter with Background
+<div align="center" style="position: relative; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Banner.png" alt="Visitors Background (girls png)" style="max-width: 100%; border-radius: 12px; filter: saturate(1.05);"/>
+  <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;">
+    <img src="https://komarev.com/ghpvc/?username=VishalRaut2106&label=Visitors&color=ff69b4&style=for-the-badge" alt="Visitors"/>
+  </div>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
-  ### 💖 Show some love by starring ⭐ some repositories!
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-</div>
+## 🧠 Extra From Popular READMEs
+- Badges: clean skill rows via skillicons.dev
+- Trophies and Summary Cards for quick snapshot
+- Quote widget for daily inspiration
+- Snake and wave animations for playful vibes
+- Profile views and visitors overlay for engagement
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 📣 Call to Action
+### 💖 Show some love by starring ⭐ some repositories!
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+</p>
+
+---
+
+## 🧱 Big Contribution Graph (Hi-Res)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=react-dark&hide_border=true&area=true&radius=12&custom_title=Vishal%20Raut%20Contribution%20Graph" alt="Hi-Res Contribution Graph"/>
+</p>
+
+<!-- Bottom: followers and provided image -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/VishalRaut2106?label=Followers&style=social" alt="Followers"/>
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" alt="Footer Wave"/>
+</p>
