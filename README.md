@@ -1,166 +1,235 @@
-<!-- Profile Header with Animated Gradient Wave (replaces typewriter) -->
+<!-- Banner Image at Top -->
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=0&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=0&lines=" alt="" width="0" height="0"/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Vishal%20Raut&fontSize=48&fontColor=ffffff&animation=fadeIn" />
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Vishal%20Raut&fontSize=48&fontColor=1b1f23&animation=fadeIn" alt="Vishal Raut" />
-    </picture>
-    <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00B4F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+%26+DS+Student+%7C+Open+Source+Contributor;Building+cool+things+on+the+web+and+learning+every+day" alt="Intro Lines" />
-    </div>
-  </h1>
+  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Banner.png" alt="Vishal Raut Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishalRaut2106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<br/>
 
----
+<!-- Dynamic Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vishal+Raut!;Full+Stack+Developer;Code+Craftsman+⚡;Problem+Solver+🚀" alt="Typing SVG" />
+</h1>
 
-## 💫 About Me
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🚀 About Me - The Digital Architect
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</div>
+
 ```javascript
 const vishal = {
-  pronouns: "He" | "Him",
-  location: "India",
-  education: "B.Tech in AI & Data Science | 5th Semester",
-  currentFocus: ["Full Stack Development", "DSA in Java", "React.js"],
-  askMeAbout: ["Web Dev", "Tech", "AI/ML", "Open Source"],
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+  name: "Vishal Raut",
+  role: "Full Stack Developer & Tech Enthusiast",
+  location: "India 🇮🇳",
+  passions: ["Clean Code", "Innovation", "Problem Solving", "Open Source"],
+  currentlyLearning: "Advanced System Design & Cloud Architecture",
+  funFact: "I debug with console.log() and I'm not ashamed! 😄",
+  lifePhilosophy: "Code is poetry written in logic"
 };
 ```
-- 🔭 Currently Working On: Building impactful real-world projects
-- 🌱 Currently Learning: Advanced React, Data Structures & Algorithms
-- 💬 Ask Me About: Web Development, Java, React, Problem Solving
-- ⚡ Fun Fact: I turn coffee into code ☕➡️💻
-- 🌟 Open Source: Contributing to GSSOC'25
+
+### 💡 What Makes Me Unique:
+- 🎯 **Problem Solver**: I don't just write code, I craft solutions
+- 🌟 **Innovation Driver**: Always exploring cutting-edge technologies
+- 🤝 **Community Builder**: Believe in knowledge sharing and collaboration
+- 🎨 **Design Thinker**: Bridging the gap between functionality and aesthetics
+- ⚡ **Performance Optimizer**: Making applications fast and efficient
 
 ---
 
-## 🛠️ Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,python,git,github,postgres,mongodb,mysql,redis,vercel,docker,linux,vscode&perline=10" alt="Skills"/>
-</p>
+## 🛠️ Tech Arsenal
 
----
+<div align="center">
 
-## 🧩 Developer Cards & Widgets
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalRaut2106&theme=discord&no-frame=true&row=1&margin-w=8" alt="Trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalRaut2106&theme=tokyonight" alt="Profile Details"/>
-</p>
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express" alt="Languages and Frameworks" />
 
----
+### 🎨 Frontend Magic
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies" />
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <!-- Streak: primary provider -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <!-- Streak fallback (if above doesn't load) -->
-  <img src="https://streak-stats.demolab.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak (Fallback)" width="48%"/>
-</p>
+### 🗄️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" alt="Databases" />
 
----
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel" alt="DevOps and Cloud" />
 
-## 🔤 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%"/>
-</p>
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux,windows" alt="Tools" />
 
-<!-- 1) Place Contribution Graph BELOW Languages -->
-## 🟩 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://vishalraut2106.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/vishalraut2106" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/vishalraut2106" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:vishalraut2106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-## 💭 Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
-## ⭐ Pinned Projects
-<p align="center">
-  <a href="https://github.com/VishalRaut2106/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalRaut2106&repo=VishalRaut2106&theme=tokyonight&hide_border=true" alt="Project 1"/>
-  </a>
-</p>
-
----
-
-## 🐍 Fun Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 👀 Visitors Counter with Background
-<div align="center" style="position: relative; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Banner.png" alt="Visitors Background (girls png)" style="max-width: 100%; border-radius: 12px; filter: saturate(1.05);"/>
-  <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;">
-    <img src="https://komarev.com/ghpvc/?username=VishalRaut2106&label=Visitors&color=ff69b4&style=for-the-badge" alt="Visitors"/>
-  </div>
 </div>
 
 ---
 
-## 🧠 Extra From Popular READMEs
-- Badges: clean skill rows via skillicons.dev
-- Trophies and Summary Cards for quick snapshot
-- Quote widget for daily inspiration
-- Snake and wave animations for playful vibes
-- Profile views and visitors overlay for engagement
+## 🏆 GitHub Journey
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</div>
 
----
-
-## 📣 Call to Action
-### 💖 Show some love by starring ⭐ some repositories!
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</div>
 
 ---
 
-## 🧱 Big Contribution Graph (Hi-Res)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=react-dark&hide_border=true&area=true&radius=12&custom_title=Vishal%20Raut%20Contribution%20Graph" alt="Hi-Res Contribution Graph"/>
-</p>
+## 🌟 Featured Projects
 
-<!-- Bottom: followers and provided image -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/VishalRaut2106?label=Followers&style=social" alt="Followers"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" alt="Footer Wave"/>
-</p>
+### 🔥 Repository Highlights
+
+<a href="https://github.com/VishalRaut2106">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalRaut2106&repo=VishalRaut2106&theme=tokyonight&hide_border=true" alt="Featured Repo">
+</a>
+
+</div>
+
+<!-- Project Cards Row -->
+<div align="center">
+  
+  **🚀 Innovation Hub** | **💡 Creative Solutions** | **⚡ Performance Focused**
+  
+  *Building tomorrow's technology today*
+  
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Vishal's%20Contribution%20Journey" alt="Activity Graph" width="100%">
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🎓 Learning | 🔨 Building | 🌱 Growing |
+|-------------|-------------|------------|
+| System Design | Full Stack Apps | Open Source Contributions |
+| Cloud Architecture | Modern Web Solutions | Technical Leadership |
+| DevOps Practices | Performance Optimization | Community Engagement |
+
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💌 Reach Out To Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-raut)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vishalraut)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalraut@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishalraut.dev)
+
+### 📧 Email Me
+```
+vishalraut@gmail.com
+```
+
+### 💝 Support My Work
+If you find my projects helpful, consider:
+- ⭐ Starring my repositories
+- 🍴 Forking interesting projects
+- 🐛 Reporting bugs or suggesting features
+- 🤝 Collaborating on exciting projects
+
+</div>
+
+---
+
+## 💭 Daily Inspiration
+
+<div align="center">
+  
+  ### 🎯 Today's Mantra
+  
+  > **"The best error message is the one that never shows up."**
+  > 
+  > *— Thomas Fuchs*
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+  
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+### 🎖️ GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=VishalRaut2106&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+
+### 📊 Profile Analytics
+![Profile Views](https://komarev.com/ghpvc/?username=VishalRaut2106&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/VishalRaut2106?label=Followers&style=social)](https://github.com/VishalRaut2106?tab=followers)
+
+</div>
+
+---
+
+## 🎨 Fun Zone
+
+<div align="center">
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/snake.svg" alt="Snake animation" />
+
+### 🎵 Currently Vibing To
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/vishalraut)
+
+</div>
+
+---
+
+## 🚀 Call to Action
+
+<div align="center">
+
+### 🌟 Ready to Build Something Amazing Together?
+
+**I'm always excited about:**
+- 🚀 Innovative web applications
+- 🤖 AI/ML integration projects
+- 🌐 Open source contributions
+- 💡 Startup collaborations
+- 📚 Knowledge sharing initiatives
+
+<br/>
+
+### 📬 Let's Start a Conversation!
+
+[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-%23FF6B6B?style=for-the-badge&logo=wechat&logoColor=white)](mailto:vishalraut@gmail.com)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-%2300D4AA?style=for-the-badge&logo=handshake&logoColor=white)](https://vishalraut.dev/contact)
+[![Collaborate](https://img.shields.io/badge/Collaborate-%23FFA500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalRaut2106)
+
+<br/>
+
+### 💖 Show Some Love
+
+If you like what you see, drop a ⭐ on my repositories!
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  
+  **Made with ❤️ and lots of ☕ by Vishal Raut**
+  
+  *"Code is like humor. When you have to explain it, it's bad."*
+</div>
