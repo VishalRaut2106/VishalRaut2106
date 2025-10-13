@@ -1,82 +1,102 @@
-## 👨‍💻 About Me
+<!-- Banner Image at Top -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Banner.png" alt="Vishal Raut Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
+</div>
+
+<br/>
+
+<!-- Dynamic Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Vishal+Raut!;Full+Stack+Developer;Code+Craftsman+⚡;Problem+Solver+🚀" alt="Typing SVG" />
+</h1>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🚀 About Me - The Digital Architect
 
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" alt="Profile Avatar" width="150" style="border-radius: 50%; border: 3px solid #58a6ff;" />
-    <div style="text-align: left; max-width: 600px;">
-      <h3>🚀 Full Stack Developer | Tech Enthusiast | Open Source Contributor</h3>
-      <p>Passionate about building scalable applications and exploring cutting-edge technologies. Always learning, always growing!</p>
-      <p>💼 Currently working on innovative web solutions</p>
-      <p>🌟 Love contributing to open source projects</p>
-    </div>
-  </div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</div>
+
+```javascript
+const vishal = {
+  name: "Vishal Raut",
+  role: "Full Stack Developer & Tech Enthusiast",
+  location: "India 🇮🇳",
+  passions: ["Clean Code", "Innovation", "Problem Solving", "Open Source"],
+  currentlyLearning: "Advanced System Design & Cloud Architecture",
+  funFact: "I debug with console.log() and I'm not ashamed! 😄",
+  lifePhilosophy: "Code is poetry written in logic"
+};
+```
+
+### 💡 What Makes Me Unique:
+- 🎯 **Problem Solver**: I don't just write code, I craft solutions
+- 🌟 **Innovation Driver**: Always exploring cutting-edge technologies
+- 🤝 **Community Builder**: Believe in knowledge sharing and collaboration
+- 🎨 **Design Thinker**: Bridging the gap between functionality and aesthetics
+- ⚡ **Performance Optimizer**: Making applications fast and efficient
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express" alt="Languages and Frameworks" />
+
+### 🎨 Frontend Magic
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies" />
+
+### 🗄️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" alt="Databases" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel" alt="DevOps and Cloud" />
+
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux,windows" alt="Tools" />
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 GitHub Journey
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</div>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+### 🔥 Repository Highlights
+
+<a href="https://github.com/VishalRaut2106">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalRaut2106&repo=VishalRaut2106&theme=tokyonight&hide_border=true" alt="Featured Repo">
+</a>
+
 </div>
 
+<!-- Project Cards Row -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+  **🚀 Innovation Hub** | **💡 Creative Solutions** | **⚡ Performance Focused**
+  
+  *Building tomorrow's technology today*
+  
 </div>
 
 ---
@@ -111,25 +131,21 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-raut)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vishalraut)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalraut.contact@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalraut@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishalraut.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919890584055)
 
 ### 📧 Email Me
 ```
-vishalraut.contact@gmail.com
+vishalraut@gmail.com
 ```
 
 ### 💝 Support My Work
-
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vishalraut)
-
 If you find my projects helpful, consider:
 - ⭐ Starring my repositories
 - 🍴 Forking interesting projects
 - 🐛 Reporting bugs or suggesting features
 - 🤝 Collaborating on exciting projects
-- ☕ Buying me a coffee to fuel more coding!
 
 </div>
 
@@ -139,15 +155,11 @@ If you find my projects helpful, consider:
 
 <div align="center">
   
+  ### 🎯 Today's Mantra
   
-### 🎯 Today's Mantra
-  
-  
-> **"The best error message is the one that never shows up."**
-  
-> 
-  
-> *— Thomas Fuchs*
+  > **"The best error message is the one that never shows up."**
+  > 
+  > *— Thomas Fuchs*
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
   
@@ -163,7 +175,6 @@ If you find my projects helpful, consider:
 <img src="https://github-profile-trophy.vercel.app/?username=VishalRaut2106&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 
 ### 📊 Profile Analytics
-
 ![Profile Views](https://komarev.com/ghpvc/?username=VishalRaut2106&label=Profile%20Views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/VishalRaut2106?label=Followers&style=social)](https://github.com/VishalRaut2106?tab=followers)
 
@@ -171,8 +182,55 @@ If you find my projects helpful, consider:
 
 ---
 
+## 🎨 Fun Zone
+
 <div align="center">
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/snake.svg" alt="Snake animation" />
+
+### 🎵 Currently Vibing To
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/vishalraut)
+
+</div>
+
+---
+
+## 🚀 Call to Action
+
+<div align="center">
+
+### 🌟 Ready to Build Something Amazing Together?
+
+**I'm always excited about:**
+- 🚀 Innovative web applications
+- 🤖 AI/ML integration projects
+- 🌐 Open source contributions
+- 💡 Startup collaborations
+- 📚 Knowledge sharing initiatives
+
+<br/>
+
+### 📬 Let's Start a Conversation!
+
+[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-%23FF6B6B?style=for-the-badge&logo=wechat&logoColor=white)](mailto:vishalraut@gmail.com)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-%2300D4AA?style=for-the-badge&logo=handshake&logoColor=white)](https://vishalraut.dev/contact)
+[![Collaborate](https://img.shields.io/badge/Collaborate-%23FFA500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalRaut2106)
+
+<br/>
+
+### 💖 Show Some Love
+
+If you like what you see, drop a ⭐ on my repositories!
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   
-### 💙 Thanks for visiting! Let's build something amazing together! 🚀
+  **Made with ❤️ and lots of ☕ by Vishal Raut**
   
+  *"Code is like humor. When you have to explain it, it's bad."*
 </div>
