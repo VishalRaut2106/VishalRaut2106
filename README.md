@@ -32,6 +32,7 @@ const vishal = {
 ```
 
 ### 💡 What Makes Me Unique:
+
 - 🎯 **Problem Solver**: I don't just write code, I craft solutions
 - 🌟 **Innovation Driver**: Always exploring cutting-edge technologies
 - 🤝 **Community Builder**: Believe in knowledge sharing and collaboration
@@ -45,80 +46,99 @@ const vishal = {
 <div align="center">
 
 ### 💻 Languages & Frameworks
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-</p>
-
-### 🛠️ Tools & DevOps
-<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 📈 Contribution Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
-### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e7de79&fire=e7de79&currStreakNum=e7de79" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalRaut2106&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🐍 Contribution Snake Animation
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalRaut2106&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-
-### 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&bg_color=0d1117&color=e7de79&line=e7de79&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🏆 GitHub Trophies - Achievement Showcase
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishalRaut2106&theme=matrix&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=react-dark&bg_color=1a1b27&color=9933ff&line=ff6e96&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Current Focus - What I'm Up To
 
 <div align="center">
 
-### 🚀 Project Highlights
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="80" />
+      <h3>📚 Learning</h3>
+      <p>Advanced System Design<br/>Cloud Architecture<br/>Microservices Patterns<br/>GraphQL & tRPC</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80" />
+      <h3>🛠️ Building</h3>
+      <p>Full-Stack SaaS Platform<br/>AI-Powered Dev Tools<br/>Open Source Libraries<br/>Tech Blog & Tutorials</p>
+    </td>
+    <td align="center" width="34%">
+      <img src="https://img.icons8.com/fluency/96/000000/growth.png" width="80" />
+      <h3>🌱 Growing</h3>
+      <p>Community Contributions<br/>Technical Writing<br/>Mentoring Juniors<br/>Speaking at Events</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
   <tr>
@@ -154,6 +174,7 @@ const vishal = {
 <div align="center">
 
 ### 🌐 Find Me Online
+
 <p align="center">
   <a href="https://linkedin.com/in/vishal-raut" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -170,6 +191,7 @@ const vishal = {
 </p>
 
 ### 💬 Let's Build Something Amazing Together!
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VishalRaut2106&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
