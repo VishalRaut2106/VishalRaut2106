@@ -187,8 +187,9 @@ If you find my projects helpful, consider:
 <div align="center">
 
 ### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/github-snake.svg?palette=dark&color_snake=#00ffff&color_dots=#00ffff,#00ccff,#0099ff,#0066ff,#6633ff" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalraut2106/vishalraut2106/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalraut2106/vishalraut2106/output/github-snake.svg" />
 
 
 
