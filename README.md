@@ -187,7 +187,9 @@ If you find my projects helpful, consider:
 <div align="center">
 
 ### 🐍 Contribution Snake
-<img src="[https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/snake.svg](https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/github-snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/github-snake.svg?palette=dark&color_snake=#00ffff&color_dots=#00ffff,#00ccff,#0099ff,#0066ff,#6633ff" alt="Snake animation" />
+
+
 
 ### 🎵 Currently Vibing To
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/vishalraut)
