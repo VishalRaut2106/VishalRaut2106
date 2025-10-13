@@ -17,20 +17,17 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0F172A,100:0B1220&height=2" width="100%" />
 
 <!-- About section in a rounded card -->
-
 <div align="center">
-
 <details open>
   <summary>
     <img src="https://img.shields.io/badge/%F0%9F%94%A5%20About%20Me-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </summary>
   
-  <br/>
+  <br />
   <div style="background:#0d1117; border:1px solid #202938; padding:18px; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.35); max-width:880px;">
   <p style="color:#c9d1d9">
   I craft robust, user-centric web apps with a keen eye for performance, accessibility, and developer experience. Passionate about translating ideas into thoughtful systems with clean APIs and delightful UIs.
   </p>
-
   <pre style="background:#0b1020; color:#eaeef2; border-radius:12px; padding:16px; text-align:left; overflow:auto; border:1px solid #1f2a44; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.02);">
   <code>
 class VishalRaut:
@@ -48,7 +45,6 @@ class VishalRaut:
 </div>
 
 <!-- Tech Stack with gradient/3D-ish badges -->
-
 ### 🔧 Tech Arsenal
 <div align="center">
 
@@ -77,7 +73,6 @@ class VishalRaut:
 </div>
 
 <!-- Project highlight cards with subtle shadows -->
-
 ### 🚀 Featured Projects
 <div align="center">
   <a href="https://github.com/VishalRaut2106/ChatVerse">
@@ -89,7 +84,6 @@ class VishalRaut:
 </div>
 
 <!-- GitHub stats section in unified theme -->
-
 ### 📊 GitHub Pulse
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VishalRaut2106&theme=github-dark-blue&hide_border=true&background=0D1117" alt="streak" />
@@ -97,8 +91,14 @@ class VishalRaut:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&title_color=fff&text_color=c9d1d9&bg_color=0D1117&hide_border=true" alt="langs" />
 </div>
 
-<!-- Contact / Socials with bright contrast badges -->
+#### 💫 Total Commits
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVishalRaut2106%2Frepos%3Fper_page%3D100&query=%24%5B%2A%5D.stargazers_count&label=Total%20Commits&style=for-the-badge&logo=github&color=4EC9B0&logoColor=white" alt="Total Commits Badge" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalRaut2106&theme=dark&hide_border=true&background=0D1117&ring=4EC9B0&fire=4EC9B0&currStreakLabel=4EC9B0" alt="Total Commits Counter" />
+</div>
 
+<!-- Contact / Socials with bright contrast badges -->
 ### 🤝 Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/vishal-raut-2106/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -109,5 +109,4 @@ class VishalRaut:
 </div>
 
 <!-- Footer wave -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:111827&height=120&section=footer&text=Thanks+for+visiting!&fontSize=22&fontColor=E5E7EB" width="100%" />
