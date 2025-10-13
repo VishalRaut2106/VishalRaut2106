@@ -1,19 +1,18 @@
-<!-- Banner Image at Top -->
+![Banner](https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/banner.png)
 
 ## 📞 Contact & Portfolio
-
 <div align="center">
 
-🌐 **Portfolio:** [https://vishalraut2106.vercel.app](https://vishalraut2106.vercel.app)
-
-📱 **Mobile:** +91 9890584055
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalRaut2106)
 
 </div>
 
 ---
 
 ## 🛠️ Tech Arsenal
-
 <div align="center">
 
 ### 💻 Languages & Frameworks
@@ -36,7 +35,6 @@
 ---
 
 ## 🏆 GitHub Journey
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=VishalRaut2106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -54,44 +52,11 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-### 🔥 Repository Highlights
-
-<a href="https://github.com/VishalRaut2106">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalRaut2106&repo=VishalRaut2106&theme=tokyonight&hide_border=true" alt="Featured Repo">
-</a>
-
-</div>
-
-<!-- Project Cards Row -->
-<div align="center">
-
-**🚀 Innovation Hub** | **💡 Creative Solutions** | **⚡ Performance Focused**
-
-*Building tomorrow's technology today*
-
-</div>
-
 ---
 
-## 📈 Activity Graph
-
+## 🐍 Snake Game Animation
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Vishal's%20Contribution%20Journey" alt="Activity Graph" width="100%">
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🎓 Learning | 🔨 Building | 🌱 Growing |
-|-------------|-------------|------------|
-| System Design | Full Stack Apps | Open Source Contributions |
-| Cloud Architecture | Modern Web Solutions | Technical Leadership |
+![snake animation](https://github.com/VishalRaut2106/VishalRaut2106/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
