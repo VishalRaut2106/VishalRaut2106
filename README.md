@@ -17,9 +17,10 @@
 
 ## 🚀 About Me - The Digital Architect
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-</div>
+<table>
+  <tr>
+    <td>
+
 
 ```javascript
 const vishal = {
@@ -31,9 +32,18 @@ const vishal = {
   funFact: "I debug with console.log() and I'm not ashamed! 😄",
   lifePhilosophy: "Code is poetry written in logic"
 };
+
 ```
 
-### 💡 What Makes Me Unique:
+</td>
+    <td>
+       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
+### 💡 I'm:
 - 🎯 **Problem Solver**: I don't just write code, I craft solutions
 - 🌟 **Innovation Driver**: Always exploring cutting-edge technologies
 - 🤝 **Community Builder**: Believe in knowledge sharing and collaboration
@@ -136,7 +146,7 @@ const vishal = {
 
 ### 📧 Email Me
 ```
-vishalraut@gmail.com
+vishalraut.contact@gmail.com
 ```
 
 ### 💝 Support My Work
@@ -187,10 +197,15 @@ If you find my projects helpful, consider:
 <div align="center">
 
 ### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalraut2106/vishalraut2106/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalraut2106/vishalraut2106/output/github-snake.svg" />
 
+  <!-- 🐍 GitHub Contribution Snake (Dark Theme) -->
+<div align="center">
+
+  ![GitHub Snake Dark](https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/output/github-snake-dark.svg)
+
+</div>
+
+ 
 
 
 ### 🎵 Currently Vibing To
@@ -217,9 +232,11 @@ If you find my projects helpful, consider:
 
 ### 📬 Let's Start a Conversation!
 
-[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-%23FF6B6B?style=for-the-badge&logo=wechat&logoColor=white)](mailto:vishalraut@gmail.com)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-%2300D4AA?style=for-the-badge&logo=handshake&logoColor=white)](https://vishalraut.dev/contact)
+[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-%23FF6B6B?style=for-the-badge&logo=wechat&logoColor=white)](mailto:vishalraut.contact@gmail.com)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-%2300D4AA?style=for-the-badge&logo=handshake&logoColor=white)](https://vishalraut2106.vercel.app/)
 [![Collaborate](https://img.shields.io/badge/Collaborate-%23FFA500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalRaut2106)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Vishal-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/919890584055?text=Hi%20Vishal%2C%20I%20found%20you%20on%20GitHub%21)
+
 
 <br/>
 
@@ -232,9 +249,11 @@ If you like what you see, drop a ⭐ on my repositories!
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+  
   
   **Made with ❤️ and lots of ☕ by Vishal Raut**
   
   *"Code is like humor. When you have to explain it, it's bad."*
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
