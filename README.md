@@ -60,10 +60,10 @@ const vishal = {
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express" alt="Languages and Frameworks" />
 
 ### 🎨 Frontend Magic
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,N,tailwind,bootstrap,figma" alt="Frontend Technologies" />
 
 ### 🗄️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases" />
 
 ### ☁️ DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel" alt="DevOps and Cloud" />
@@ -140,10 +140,10 @@ const vishal = {
 
 ### 💌 Reach Out To Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-raut)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vishalraut)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalraut2106)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vishalraut2106)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalraut@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishalraut.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishalraut2106.vercel.app)
 
 ### 📧 Email Me
 ```
@@ -234,8 +234,7 @@ If you find my projects helpful, consider:
 ### 📬 Let's Start a Conversation!
 
 [![Let's Chat](https://img.shields.io/badge/Let's%20Chat-%23FF6B6B?style=for-the-badge&logo=wechat&logoColor=white)](mailto:vishalraut.contact@gmail.com)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-%2300D4AA?style=for-the-badge&logo=handshake&logoColor=white)](https://vishalraut2106.vercel.app/)
-[![Collaborate](https://img.shields.io/badge/Collaborate-%23FFA500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalRaut2106)
+[![Let's Work Together](https://img.shields.io/badge/Hire%20Me-%2300D4AA?style=for-the-badge&logo=handshake&logoColor=white)](https://vishalraut2106.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Vishal-brightgreen?logo=whatsapp&style=for-the-badge)](https://wa.me/919890584055?text=Hi%20Vishal%2C%20I%20found%20you%20on%20GitHub%21)
 
 
