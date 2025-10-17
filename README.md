@@ -60,7 +60,7 @@ const vishal = {
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express" alt="Languages and Frameworks" />
 
 ### 🎨 Frontend Magic
-<img src="https://skillicons.dev/icons?i=html,css,N,tailwind,bootstrap,figma" alt="Frontend Technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies" />
 
 ### 🗄️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases" />
