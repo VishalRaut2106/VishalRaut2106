@@ -28,7 +28,7 @@ const vishal = {
   role: "Full Stack Developer & Tech Enthusiast",
   location: "India 🇮🇳",
   passions: ["Clean Code", "Innovation", "Problem Solving", "Open Source"],
-  currentlyLearning: "Advanced System Design & Cloud Architecture",
+  currentlyLearning: "LIFE",
   funFact: "I debug with console.log() and I'm not ashamed! 😄",
   lifePhilosophy: "Code is poetry written in logic"
 };
