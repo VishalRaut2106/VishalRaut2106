@@ -127,7 +127,7 @@ const vishal = {
 | 🎓 Learning | 🔨 Building | 🌱 Growing |
 |-------------|-------------|------------|
 | System Design | Full Stack Apps | Open Source Contributions |
-| Cloud Architecture | Modern Web Solutions | Technical Leadership |
+| Cloud Architecture | Modern Web Solutions | Daily DSA Problems |
 | DevOps Practices | Performance Optimization | Community Engagement |
 
 </div>
