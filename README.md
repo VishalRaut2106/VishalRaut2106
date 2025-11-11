@@ -91,14 +91,6 @@ const vishal = {
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-### 🔥 Repository Highlights
-
-<a href="https://github.com/VishalRaut2106">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalRaut2106&repo=VishalRaut2106&theme=tokyonight&hide_border=true" alt="Featured Repo">
-</a>
-
 </div>
 
 <!-- Project Cards Row -->
