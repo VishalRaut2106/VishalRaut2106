@@ -192,6 +192,14 @@ If you find my projects helpful, consider:
 ![Profile Views](https://komarev.com/ghpvc/?username=VishalRaut2106&label=Profile%20Views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/VishalRaut2106?label=Followers&style=social)](https://github.com/VishalRaut2106?tab=followers)
 
+<div align="center">
+
+### 🤝 Open Source Advocate
+
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/VishalRaut2106)
+
+</div>
+
 </div>
 
 ---
