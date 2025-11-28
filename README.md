@@ -54,37 +54,28 @@ const vishal = {
 </table>
 
 
-### 💡 I'm:
-- 🎯 **Problem Solver**: I don't just write code, I craft solutions
-- 🌟 **Innovation Driver**: Always exploring cutting-edge technologies
-- 🤝 **Community Builder**: Believe in knowledge sharing and collaboration
-- 🎨 **Design Thinker**: Bridging the gap between functionality and aesthetics
-- ⚡ **Performance Optimizer**: Making applications fast and efficient
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+<!-- ### 💻 Languages & Frameworks -->
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express" alt="Languages and Frameworks" />
 
-### 🎨 Frontend Magic
+<!-- ### 🎨 Frontend Magic-->
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies" />
 
-### 🗄️ Backend & Databases
+<!--### 🗄️ Backend & Databases -->
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases" />
 
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel" alt="DevOps and Cloud" />
+<!--### ☁️ DevOps & Cloud-->
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="DevOps and Cloud" />
 
-### 🧰 Tools & Platforms
+<!-- ### 🧰 Tools & Platforms -->
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux,windows" alt="Tools" />
 
 </div>
 
----
+
 
 ## 🏆 GitHub Journey
 
@@ -98,9 +89,9 @@ const vishal = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
----
 
-## 🌟 Featured Projects
+
+## 🌟 Mainly 
 
 </div>
 
@@ -113,15 +104,10 @@ const vishal = {
   
 </div>
 
----
-
-## 📈 Activity Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalRaut2106&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Vishal's%20Contribution%20Journey" alt="Activity Graph" width="100%">
 </div>
 
----
 
 ## 🎯 Current Focus
 
@@ -135,7 +121,6 @@ const vishal = {
 
 </div>
 
----
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -147,6 +132,7 @@ const vishal = {
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vishalraut2106)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalraut@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishalraut2106.vercel.app)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vishalraut)
 
 ### 📧 Email Me
 ```
@@ -154,7 +140,7 @@ vishalraut.contact@gmail.com
 ```
 
 ### 💝 Support My Work
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vishalraut)
+
 If you find my projects helpful, consider:
 - ⭐ Starring my repositories
 - 🍴 Forking interesting projects
@@ -163,7 +149,7 @@ If you find my projects helpful, consider:
 
 </div>
 
----
+
 
 ## 💭 Daily Inspiration
 
@@ -179,7 +165,6 @@ If you find my projects helpful, consider:
   
 </div>
 
----
 
 ## 🏆 Achievements & Recognition
 
@@ -202,7 +187,7 @@ If you find my projects helpful, consider:
 
 </div>
 
----
+
 
 ## 🎨 Fun Zone
 
@@ -225,9 +210,7 @@ If you find my projects helpful, consider:
 
 </div>
 
----
 
-## 🚀 Call to Action
 
 <div align="center">
 
@@ -235,7 +218,7 @@ If you find my projects helpful, consider:
 
 **I'm always excited about:**
 - 🚀 Innovative web applications
-- 🤖 AI/ML integration projects
+- 🤖 New Tools
 - 🌐 Open source contributions
 - 💡 Startup collaborations
 - 📚 Knowledge sharing initiatives
@@ -257,14 +240,14 @@ If you like what you see, drop a ⭐ on my repositories!
 
 </div>
 
----
+
 
 <div align="center">
   
   
-  **Made with ❤️ and lots of ☕ by Vishal Raut**
+  **Made with ❤️ and lots of ⌛ by Vishal Raut**
   
-  *"Code is like humor. When you have to explain it, it's bad."*
+  *"Code is like humour. When you have to explain it, it's bad."*
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
