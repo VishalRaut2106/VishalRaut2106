@@ -55,26 +55,15 @@ const vishal = {
 
 
 ## 🛠️ Tech Arsenal
-
 <div align="center">
-
-<!-- ### 💻 Languages & Frameworks -->
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express" alt="Languages and Frameworks" />
-
-<!-- ### 🎨 Frontend Magic-->
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies" />
-
-<!--### 🗄️ Backend & Databases -->
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases" />
-
-<!--### ☁️ DevOps & Cloud-->
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="DevOps and Cloud" />
-
-<!-- ### 🧰 Tools & Platforms -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express" alt="Languages and Frameworks" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases" /><br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" alt="DevOps and Cloud" /><br>
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux,windows" alt="Tools" />
-
 </div>
 
+---
 
 
 ## 🏆 GitHub Journey
