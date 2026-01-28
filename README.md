@@ -69,6 +69,18 @@ I actively contribute to various open-source projects. Here are some of my activ
 - Helps developers retrieve lost work efficiently, improving the tool's utility for disaster recovery in git workflows.
 
 </details>
+<details> <summary><b>SEO Meta Tags Implementation</b> - <a href="https://github.com/Gooichand/blockchain-evidence/pull/20">PR #20</a></summary> <br>
+
+**Implemented SEO Metadata Enhancements:**
+
+- Updated page title for better visibility.
+- Added meta description, keywords, and author tags.
+- Preserved existing assets (CSS, JS, favicon, Google Analytics).
+
+**Result:**
+- Improved search preview and SEO readiness with clean, valid HTML.
+
+</details>
 
 <br/>
 <div align="center">
