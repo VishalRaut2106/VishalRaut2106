@@ -146,5 +146,5 @@ I actively contribute to various open-source projects. Here are some of my activ
 
   <h3><i>“I write code that works on my machine — professional guarantee.”</i></h3>
   <p>— Vishal Raut 🧩</p>
-
+<img src="https://ssr-contributions-svg.vercel.app/_/VishalRaut2106?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=5&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=000000,1C1C1C,333333,555555,F5E050,FFD700&dark=true">
 </div>
