@@ -132,14 +132,14 @@ I actively contribute to various open-source projects. Here are some of my activ
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://vishalraut2106.vercel.app">
     <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Assets/github__cat.png" width="150" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/✨%20View%20My%20Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="40" style="margin-bottom: 50px;" />
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Assets/github_cat.png" width="150" />
-  </a>
+  </a> -->
   
   <br />
   <br />
