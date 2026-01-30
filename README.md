@@ -132,19 +132,19 @@ I actively contribute to various open-source projects. Here are some of my activ
 
 <br/>
 
-<!-- <div align="center">
+ <div align="center">
   <a href="https://vishalraut2106.vercel.app">
     <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Assets/github__cat.png" width="150" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/✨%20View%20My%20Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" height="40" style="margin-bottom: 50px;" />
     &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Assets/github_cat.png" width="150" />
-  </a> -->
+  </a> 
   
   <br />
   <br />
 
   <h3><i>“I write code that works on my machine — professional guarantee.”</i></h3>
   <p>— Vishal Raut 🧩</p>
-<img src="https://ssr-contributions-svg.vercel.app/_/VishalRaut2106?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=5&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=000000,1C1C1C,333333,555555,F5E050,FFD700&dark=true">
+<!-- <img src="https://ssr-contributions-svg.vercel.app/_/VishalRaut2106?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=5&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=000000,1C1C1C,333333,555555,F5E050,FFD700&dark=true"> -->
 </div>
