@@ -39,7 +39,7 @@
 | **Role** | **Organization** | **Timeline** |
 | :--- | :--- | :--- |
 | **React Developer (Intern)** | *360 View Tech* | Optimized **PlaceTrix** platform UI, improved page load performance, and built reusable React components. |
-| **Open Source Contributor** | *GSSoC’25, ECWoC, Toon Org* | Active contributor to multiple organizations, fixing bugs and adding critical features. |
+| **Open Source Contributor** | *GSSoC’25, ECWoC, TOON Org ,OSGC* | Active contributor to multiple organizations, fixing bugs and adding critical features. |
 
 <br/>
 
