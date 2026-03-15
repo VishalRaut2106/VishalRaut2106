@@ -26,9 +26,9 @@
 | :--- | :--- | :--- |
 | **[CodePVG](https://github.com/VishalRaut2106/code_PVG_3)** | A comprehensive competitive programming platform designed for seamless problem solving. Features real-time code execution, secure submission workflows, and dynamic leaderboards. | `Next.js` `TypeScript` `Judge0` `Supabase` |
 | **[TOON Extension](https://github.com/VishalRaut2106/vscode-toon)** | VS Code extension for **TOON** (Token-Oriented Object Notation). Reduced LLM context tokens by **30-60%**. 500+ installs. | `TypeScript` `VS Code API` `Node.js` |
-| **[HackMate AI](https://github.com/VishalRaut2106/hackmate-ai)** | AI-powered hackathon project mentor and task planner. Helps teams organize and brainstorm effectively. | `AI/ML` `Python` `Hackathon Tool` |
+| **[HackMate AI](https://github.com/VishalRaut2106/hackmate-ai)** | AI-powered hackathon project mentor and task planner. Helps teams organise and brainstorm effectively. | `AI/ML` `Python` `Hackathon Tool` |
 | **[Obys Agency Clone](https://obsyagency.netlify.app/)** | A visually stunning clone of the **OBYS agency** website. Features advanced smooth scrolling, parallax, and creative image effects. | `GSAP` `Locomotive Scroll` `Shery.js` `Three.js` |
-| **[DOC-SUM](https://github.com/VishalRaut2106/DOC-SUM)** | **Study Notes Q&A Generator**. Upload PDFs/Images to extract text, summarize with **Gemini API**, and generate practice questions. | `Python` `Streamlit` `Gemini API` `OCR` |
+| **[DOC-SUM](https://github.com/VishalRaut2106/DOC-SUM)** | **Study Notes Q&A Generator**. Upload PDFs/Images to extract text, summarise with **Gemini API**, and generate practice questions. | `Python` `Streamlit` `Gemini API` `OCR` |
 
 <br/>
 
@@ -38,8 +38,8 @@
 
 | **Role** | **Organization** | **Timeline** |
 | :--- | :--- | :--- |
-| **React Developer (Intern)** | *360 View Tech* | Optimized **PlaceTrix** platform UI, improved page load performance, and built reusable React components. |
-| **Open Source Contributor** | *GSSoC’25, ECWoC, TOON Org ,OSGC* | Active contributor to multiple organizations, fixing bugs and adding critical features. |
+| **React Developer (Intern)** | *360 View Tech* | Optimised **PlaceTrix** platform UI, improved page load performance, and built reusable React components. |
+| **Open Source Contributor** | *GSSoC’25, ECWoC, TOON Org, OSGC* | Active contributor to multiple organisations, fixing bugs and adding critical features. |
 
 <br/>
 
@@ -60,6 +60,86 @@ I actively contribute to various open-source projects. Here are some of my activ
 
 </details>
 
+<details>
+<summary><b>Open Source Connect Global (2nd Rank)</b></summary>
+<br>
+
+- <details>
+  <summary><b>Project 1: Innovision Open Source</b></summary>
+  <br>
+
+  - <details>
+    <summary><b>Handled Malformed AI Content to Prevent Client-Side Crashes</b> - <a href="https://github.com/ItsVikasA/Innovision-Open-Source/pull/168">PR #140</a></summary>
+    <br>
+
+    - Fixed crashes caused by malformed AI responses (null / non-string) in chapter `para` type.  
+    - Added safe handling in `Content.jsx` and default fallback in `Markdown.jsx`.
+
+    </details>
+
+  - <details>
+    <summary><b>AI-Powered Course Recommendations</b> - <a href="https://github.com/ItsVikasA/Innovision-Open-Source/pull/136">PR #136</a></summary>
+    <br>
+
+    - Built an API for personalised course suggestions using user history and feedback.  
+    - Added `RecommendedCourses` component and integrated it into the roadmap page.
+
+    </details>
+
+  - <details>
+    <summary><b>Archive / Unarchive Courses for Roadmap Management</b> - <a href="https://github.com/ItsVikasA/Innovision-Open-Source/pull/166">PR #166</a></summary>
+    <br>
+
+    - Added API to toggle archived status for courses.  
+    - Enabled filtering between **Active** and **Archived** courses.
+
+    </details>
+
+  </details>
+
+- <details>
+  <summary><b>Project 2: Fleetive Roadlines</b></summary>
+  <br>
+
+  - <details>
+    <summary><b>Enhanced SEO and Accessibility</b> - <a href="https://github.com/sarojit049/Fleetive-Roadlines/pull/30">PR #30</a></summary>
+    <br>
+
+    - Added dynamic SEO metadata using `react-helmet-async`.  
+    - Improved accessibility with proper labels and `aria` attributes.
+
+    </details>
+
+  </details>
+
+- <details>
+  <summary><b>Project 3: Achievement Management System</b></summary>
+  <br>
+
+  - <details>
+    <summary><b>Secure Password Hashing for Authentication</b> - <a href="https://github.com/Eswaramuthu/Achievement-Management-System/pull/168">PR #168</a></summary>
+    <br>
+
+    - Implemented secure password hashing using `generate_password_hash` and `check_password_hash`.  
+    - Replaced plaintext password storage for students and teachers.
+
+    </details>
+
+  - <details>
+    <summary><b>Restrict Teacher Registration with Secret Code</b> - <a href="https://github.com/Eswaramuthu/Achievement-Management-System/pull/57">PR #57</a></summary>
+    <br>
+
+    - Added teacher verification using a **secret registration code**.  
+    - Prevents unauthorized users from registering as teachers.
+
+    </details>
+
+  </details>
+
+</details>
+    
+
+</details>
 <details>
 <summary><b>GitGenie (Recovery System)</b> - <a href="https://github.com/gunjanghate/GitGenie/pull/29">PR #29</a></summary>
 <br>
