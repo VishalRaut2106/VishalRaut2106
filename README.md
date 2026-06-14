@@ -49,6 +49,40 @@
 
 I actively contribute to various open-source projects. Here are some of my active contributions:
 
+<details open>
+<summary><b>OneBusAway (Wayfinder)</b></summary>
+<br>
+
+- <details>
+  <summary><b>Architectural Refactor for Map Providers</b> - <a href="https://github.com/OneBusAway/wayfinder/pull/495">PR #495</a></summary>
+  <br>
+
+  - Extracted and centralized duplicate map logic into a single `buildVehiclePopupData` helper.
+  - Eliminated data desynchronization between Google Maps and OpenStreetMap integrations.
+  - Leveraged modern **Svelte 5 `$state` runes** to ensure proper reactivity optimization.
+
+  </details>
+
+- <details>
+  <summary><b>Unit Testing the Core Map Abstractions</b> - <a href="https://github.com/OneBusAway/wayfinder/pull/503">PR #503</a></summary>
+  <br>
+
+  - Designed deterministic, mock-free unit tests to lock down the data contracts for map vehicles.
+  - Enforced strict Test-Driven Development (TDD) coverage for edge cases across map dependencies.
+
+  </details>
+
+- <details>
+  <summary><b>Accessibility (a11y) & Internationalization (i18n) Testing Fixes</b> - <a href="https://github.com/OneBusAway/wayfinder/pull/482">PR #482</a></summary>
+  <br>
+
+  - Fixed UI testing mocks to assert against actual translated strings instead of raw i18n keys.
+  - Ensured the test suite accurately reflects real-world DOM behavior and screen-reader `aria-label` accessibility.
+
+  </details>
+
+</details>
+
 <details>
 <summary><b>Open-Fiesta (Encryption Feature)</b> - <a href="https://github.com/NiladriHazra/Open-Fiesta/pull/83">PR #83</a></summary>
 <br>
@@ -69,7 +103,7 @@ I actively contribute to various open-source projects. Here are some of my activ
   <br>
 
   - <details>
-    <summary><b>Handled Malformed AI Content to Prevent Client-Side Crashes</b> - <a href="https://github.com/ItsVikasA/Innovision-Open-Source/pull/168">PR #140</a></summary>
+    <summary><b>Handled Malformed AI Content to Prevent Client-Side Crashes</b> - <a href="https://github.com/ItsVikasA/Innovision-Open-Source/pull/140">PR #140</a></summary>
     <br>
 
     - Fixed crashes caused by malformed AI responses (null / non-string) in chapter `para` type.  
@@ -137,9 +171,7 @@ I actively contribute to various open-source projects. Here are some of my activ
   </details>
 
 </details>
-    
 
-</details>
 <details>
 <summary><b>GitGenie (Recovery System)</b> - <a href="https://github.com/gunjanghate/GitGenie/pull/29">PR #29</a></summary>
 <br>
@@ -149,10 +181,12 @@ I actively contribute to various open-source projects. Here are some of my activ
 - Helps developers retrieve lost work efficiently, improving the tool's utility for disaster recovery in git workflows.
 
 </details>
-<details> <summary><b>SEO Meta Tags Implementation</b> - <a href="https://github.com/Gooichand/blockchain-evidence/pull/20">PR #20</a></summary> <br>
+
+<details> 
+<summary><b>SEO Meta Tags Implementation</b> - <a href="https://github.com/Gooichand/blockchain-evidence/pull/20">PR #20</a></summary> 
+<br>
 
 **Implemented SEO Metadata Enhancements:**
-
 - Updated page title for better visibility.
 - Added meta description, keywords, and author tags.
 - Preserved existing assets (CSS, JS, favicon, Google Analytics).
@@ -161,7 +195,6 @@ I actively contribute to various open-source projects. Here are some of my activ
 - Improved search preview and SEO readiness with clean, valid HTML.
 
 </details>
-
 <br/>
 <div align="center">
 
