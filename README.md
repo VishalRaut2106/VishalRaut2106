@@ -49,7 +49,7 @@
 
 I actively contribute to various open-source projects. Here are some of my active contributions:
 
-<details open>
+<details >
 <summary><b>OneBusAway (Wayfinder)</b></summary>
 <br>
 
