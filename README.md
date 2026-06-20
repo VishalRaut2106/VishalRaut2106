@@ -8,7 +8,7 @@
 
 ### 🔭 Currently Working On
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-CodePVG-3b82f6?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Focus-CodePVG-3b82f6?style=flat-square&logo=visual-studio-code&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Focus-Open_Source-10b981?style=flat-square&logo=github&logoColor=white" />
 </div>
 
@@ -57,7 +57,7 @@ I actively contribute to various open-source projects. Here are some of my activ
   <summary><b>Architectural Refactor for Map Providers</b> - <a href="https://github.com/OneBusAway/wayfinder/pull/495">PR #495</a></summary>
   <br>
 
-  - Extracted and centralized duplicate map logic into a single `buildVehiclePopupData` helper.
+  - Extracted and centralised duplicate map logic into a single `buildVehiclePopupData` helper.
   - Eliminated data desynchronization between Google Maps and OpenStreetMap integrations.
   - Leveraged modern **Svelte 5 `$state` runes** to ensure proper reactivity optimization.
 
