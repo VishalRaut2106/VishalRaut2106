@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Assets/banner_2.jpg" alt="Vishal Raut Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Banner_2.jpg" alt="Vishal Raut Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 
@@ -14,7 +14,9 @@
 
 <br/>
 
-> **🚀 Building [CodePVG](https://codepvg.vercel.app)** — An advanced competitive coding platform with real-time execution, smooth navigation, and secure data handling.
+🚀 **Building Gatekeeper Shell** — A secure, collaborative terminal sharing tool built with Go & WebSockets.
+
+👉 **[Contribute to Gatekeeper Shell](https://github.com/VishalRaut2106/go-gatekeeper)**
 
 <br/>
 
@@ -24,10 +26,10 @@
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **[CodePVG](https://github.com/VishalRaut2106/code_PVG_3)** | A comprehensive competitive programming platform designed for seamless problem solving. Features real-time code execution, secure submission workflows, and dynamic leaderboards. | `Next.js` `TypeScript` `Judge0` `Supabase` |
+| **[CodePVG](https://github.com/VishalRaut2106/codepvg)** | A comprehensive competitive programming platform designed for seamless problem solving. Features real-time code execution, secure submission workflows, and dynamic leaderboards. | `Next.js` `TypeScript` `Judge0` `Supabase` |
 | **[TOON Extension](https://github.com/VishalRaut2106/vscode-toon)** | VS Code extension for **TOON** (Token-Oriented Object Notation). Reduced LLM context tokens by **30-60%**. 500+ installs. | `TypeScript` `VS Code API` `Node.js` |
-| **[HackMate AI](https://github.com/VishalRaut2106/hackmate-ai)** | AI-powered hackathon project mentor and task planner. Helps teams organise and brainstorm effectively. | `AI/ML` `Python` `Hackathon Tool` |
-| **[Obys Agency Clone](https://obsyagency.netlify.app/)** | A visually stunning clone of the **OBYS agency** website. Features advanced smooth scrolling, parallax, and creative image effects. | `GSAP` `Locomotive Scroll` `Shery.js` `Three.js` |
+| **[HackMate AI](https://github.com/VishalRaut2106/HackMate_AI)** | AI-powered hackathon project mentor and task planner. Helps teams organise and brainstorm effectively. | `AI/ML` `Python` `Hackathon Tool` |
+| **[Obys Agency Clone](https://obys.vishalraut.me/)** | A visually stunning clone of the **OBYS agency** website. Features advanced smooth scrolling, parallax, and creative image effects. | `GSAP` `Locomotive Scroll` `Shery.js` `Three.js` |
 | **[DOC-SUM](https://github.com/VishalRaut2106/DOC-SUM)** | **Study Notes Q&A Generator**. Upload PDFs/Images to extract text, summarise with **Gemini API**, and generate practice questions. | `Python` `Streamlit` `Gemini API` `OCR` |
 
 <br/>
@@ -48,6 +50,16 @@
 ### 🌟 Open Source Contributions
 
 I actively contribute to various open-source projects. Here are some of my active contributions:
+<details>
+<summary><b>Firebase CLI (MFA Data Retention)</b> - <a href="https://github.com/firebase/firebase-tools/pull/10705">PR #10705</a></summary>
+<br>
+
+**Fixed Silent Loss of Multi-Factor Authentication Data:**
+- Identified and resolved a critical bug where `firebase auth:export` and `auth:import` discarded user MFA configurations due to strict JSON allowlisting.
+- Updated core serialization logic to explicitly preserve `mfaInfo` across Google Identity Toolkit API requests.
+- Implemented robust unit tests with strictly typed TypeScript interfaces to ensure continuous type safety and data integrity.
+
+</details>
 
 <details >
 <summary><b>OneBusAway (Wayfinder)</b></summary>
