@@ -1,8 +1,8 @@
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Banner_2.jpg" alt="Vishal Raut Banner" width="100%" style="border-radius: 10px;" />
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Assets/Vishal-LinkedIn-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/Vishal-LinkedIn-light.png">
+  <img src="assets/banner-dark.png" alt="GitHub Banner">
+</picture>
 
 ---
 
